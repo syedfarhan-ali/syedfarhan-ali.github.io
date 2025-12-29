@@ -1,1 +1,1 @@
-Goto https://syedfarhan-ali.github.io to view
+Goto [Demo](https://syedfarhan-ali.github.io) to view
